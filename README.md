@@ -6,7 +6,7 @@ Este proyecto es una calculadora de consola desarrollada en **Python**. Permite 
 ## 🌟 Características
 ✅ Operaciones soportadas: **suma (+), resta (-), multiplicación (*), división (/)**.  
 ✅ Interfaz en consola intuitiva.  
-✅ Validación de entradas para evitar errores.  
+✅ Validación de entradas para evitar errores. 
 ✅ Permite realizar varios cálculos sin reiniciar el programa.  
 ✅ Detección de división por cero con mensaje de error.  
 
